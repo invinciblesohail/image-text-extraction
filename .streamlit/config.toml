@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#FFD166"       # Softer gold (better than bright yellow)
+backgroundColor = "#2A4E6F"    # Your navy blue
+secondaryBackgroundColor = "#484848"  # Light gray-blue (visible but not harsh)
+textColor = "#FFFFFF"          # White text
+font = "sans serif"

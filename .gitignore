@@ -1,0 +1,10 @@
+.env
+.streamlit/secrets.toml
+venv/
+!.streamlit/config.toml
+__pyache__/
+*.pyc
+*.log
+
+
+
